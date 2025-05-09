@@ -1,2 +1,1 @@
-# RandomPassowordGenerator
-[check here on netlify](subtle-moonbeam-4de4ae.netlify.app)
+# RandomPassowordGenerator [check here on netlify](subtle-moonbeam-4de4ae.netlify.app)
